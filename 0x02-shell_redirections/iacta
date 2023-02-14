@@ -9,3 +9,4 @@ lpr: accepts standard imputs relays it to printer
 tr: transform standard input : capitalize words, lower words
 rev: reverse lines of a file
 cut: cut out certain sections of a lines in a file.
+cut: cut out certain sections of a lines in a file.
