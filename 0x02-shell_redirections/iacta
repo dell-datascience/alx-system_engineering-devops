@@ -1,0 +1,11 @@
+sort: sorts inputs 
+uniq: returns unique value from sorted stream of data
+grep: it scans each line received from stdi and 
+outputs the lines that contain specific patterns
+fmt: read text from from standard input and outputs formatted text
+pr: takes text from standard input and dissects it into pages with
+headers, footers, page breaks for printing
+lpr: accepts standard imputs relays it to printer
+tr: transform standard input : capitalize words, lower words
+rev: reverse lines of a file
+cut: cut out certain sections of a lines in a file.
